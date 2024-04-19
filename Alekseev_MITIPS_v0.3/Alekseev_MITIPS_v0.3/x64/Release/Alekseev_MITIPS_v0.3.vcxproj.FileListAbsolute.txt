@@ -1,0 +1,6 @@
+C:\Users\ADMIN\source\repos\Alekseev_MITIPS_v0.3\Alekseev_MITIPS_v0.3\x64\Release\Alekseev_MITIPS_v0.3.vcxproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Alekseev_MITIPS_v0.3\Alekseev_MITIPS_v0.3\x64\Release\AlekseevMITIPSv03.Form_1.resources
+C:\Users\ADMIN\source\repos\Alekseev_MITIPS_v0.3\Alekseev_MITIPS_v0.3\x64\Release\Alekseev_MITIPS_v0.3.vcxproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Alekseev_MITIPS_v0.3\Alekseev_MITIPS_v0.3\x64\Release\Alekseev.B9F58156.Up2Date
+C:\Users\ADMIN\source\repos\Alekseev_MITIPS_v0.3\Alekseev_MITIPS_v0.3\x64\Release\AlekseevMITIPSv03.Form_2.resources
+C:\Users\ADMIN\source\repos\Alekseev_MITIPS_v0.3\Alekseev_MITIPS_v0.3\x64\Release\AlekseevMITIPSv03.Form_3.resources
